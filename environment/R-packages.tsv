@@ -1,0 +1,23 @@
+package	version	role
+R	4.6.1	analysis runtime
+data.table	1.18.4	data processing
+ggplot2	4.0.3	figures
+patchwork	1.3.2	figure layout
+scales	1.4.0	figure scales
+svglite	2.2.2	SVG export
+ragg	1.5.2	raster export
+ggrepel	0.9.8	figure labels
+Matrix	1.7-5	sparse matrices
+edgeR	4.10.1	differential analysis
+limma	3.68.4	donor-blocked modelling
+fgsea	1.38.0	programme enrichment
+sva	3.60.0	surrogate-variable sensitivity
+ArchR	1.0.3	ATAC processing
+rhdf5	2.56.0	HDF5 input
+AnnotationDbi	1.74.0	gene annotation
+org.Hs.eg.db	3.23.1	human gene annotation
+GO.db	3.23.1	Gene Ontology annotation
+readxl	1.5.0	supplementary-table import
+xml2	1.6.0	XML parsing
+nnls	1.6	composition sensitivity
+

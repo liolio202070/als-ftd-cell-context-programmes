@@ -1,0 +1,64 @@
+estimand	cell_type	family_id	family_label	effect_discovery	adjusted_p_discovery	loo_direction_fraction_discovery	effect_replication	adjusted_p_replication	loo_direction_fraction_replication	same_direction	both_global_FDR_0_05	replication_class
+ALS_vs_Control	Astrocyte	axon_development	Axon development	1.02692101912002	0.449251247920133	1	1.26568900128072	0.0517292315554815	0.945945945945946	TRUE	FALSE	direction_only
+ALS_vs_Control	Astrocyte	heat_response	Heat response	1.39148336320641	0.122775107184617	1	-1.04063156879556	0.551775638898108	0.945945945945946	FALSE	FALSE	discordant_direction
+ALS_vs_Control	Astrocyte	mitochondrial_energy	Mitochondrial energy	-1.33692123269839	0.154112434228746	0.9375	2.22522215436636	8.97491422007794e-08	1	FALSE	FALSE	discordant_direction
+ALS_vs_Control	Astrocyte	protein_folding	Protein folding	1.32481016532058	0.0693482401680361	0.9375	-0.886134002447568	0.867801418439716	0.864864864864865	FALSE	FALSE	discordant_direction
+ALS_vs_Control	Astrocyte	protein_stabilization	Protein stabilization	1.18196356169266	0.165172054223149	1	-1.28759873486368	0.0538602505192007	1	FALSE	FALSE	discordant_direction
+ALS_vs_Control	Astrocyte	small_GTPase	Small GTPase	1.67538289060368	0.000856153027991897	1	-1.37334706733224	0.00421268449695208	1	FALSE	TRUE	discordant_direction
+ALS_vs_Control	Astrocyte	synapse_junction	Synapse / junction assembly	1.58370889048007	0.020783385296919	1	1.11004909564954	0.224532409258519	0.675675675675676	TRUE	FALSE	discovery_significant_direction_supported
+ALS_vs_Control	OPC	axon_development	Axon development	1.17893080311925	0.229481515926529	1	-1.52683493174395	0.0008515376279957	1	FALSE	FALSE	discordant_direction
+ALS_vs_Control	OPC	heat_response	Heat response	1.22913067382814	0.244593613933237	1	1.32829197537497	0.159493284493285	1	TRUE	FALSE	direction_only
+ALS_vs_Control	OPC	mitochondrial_energy	Mitochondrial energy	0.964601724649418	0.534905660377359	0.882352941176471	2.40891776409116	1.90553081580927e-09	1	TRUE	FALSE	replication_significant_direction_supported
+ALS_vs_Control	OPC	protein_folding	Protein folding	1.46135177145963	0.0188944288966703	0.941176470588235	1.58678808482771	0.0026040569169895	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+ALS_vs_Control	OPC	protein_stabilization	Protein stabilization	1.30813121400575	0.0693482401680361	1	0.977266906116649	0.664335664335664	0.972972972972973	TRUE	FALSE	direction_only
+ALS_vs_Control	OPC	small_GTPase	Small GTPase	1.92895220727043	6.4375098727079e-05	1	-1.72433039365185	2.01838015179447e-06	1	FALSE	TRUE	discordant_direction
+ALS_vs_Control	OPC	synapse_junction	Synapse / junction assembly	0.978918188032707	0.534905660377359	0.941176470588235	-1.79358892710395	2.62926569214427e-07	1	FALSE	FALSE	discordant_direction
+ALS_vs_Control	Oligodendrocyte	axon_development	Axon development	0.853582267031354	0.786303230187215	0.705882352941177	0.95302978877226	0.815202231520223	0.891891891891892	TRUE	FALSE	direction_only
+ALS_vs_Control	Oligodendrocyte	heat_response	Heat response	1.3318241883244	0.146351084812623	1	1.95390031116506	0.000101879800285215	1	TRUE	FALSE	replication_significant_direction_supported
+ALS_vs_Control	Oligodendrocyte	mitochondrial_energy	Mitochondrial energy	0.808193360852544	0.787539936102236	0.705882352941177	3.05535203228201	9.5e-10	1	TRUE	FALSE	replication_significant_direction_supported
+ALS_vs_Control	Oligodendrocyte	protein_folding	Protein folding	1.24254957539195	0.116306932801745	0.941176470588235	2.26311329971337	9.5e-10	1	TRUE	FALSE	replication_significant_direction_supported
+ALS_vs_Control	Oligodendrocyte	protein_stabilization	Protein stabilization	1.14593503659387	0.200454545454545	1	1.95990612445624	1.36288151938347e-07	1	TRUE	FALSE	replication_significant_direction_supported
+ALS_vs_Control	Oligodendrocyte	small_GTPase	Small GTPase	1.43649353203199	0.0194247566487441	1	1.07212189019795	0.265640100508988	0.945945945945946	TRUE	FALSE	discovery_significant_direction_supported
+ALS_vs_Control	Oligodendrocyte	synapse_junction	Synapse / junction assembly	-0.913254886968132	0.678557312252965	0.764705882352941	0.916974831165373	0.923611111111111	0.837837837837838	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	Astrocyte	axon_development	Axon development	-1.69191337549945	0.00400034020795714	1	-1.22196211510695	0.0884426120494747	0.972972972972973	TRUE	FALSE	discovery_significant_direction_supported
+ALS_vs_FTD	Astrocyte	heat_response	Heat response	-1.09377909596748	0.386934673366834	1	-1.01469093145556	0.585282976827095	0.945945945945946	TRUE	FALSE	direction_only
+ALS_vs_FTD	Astrocyte	mitochondrial_energy	Mitochondrial energy	-1.31471532449263	0.160169491525424	1	2.41436614497701	1.77185094832038e-09	1	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	Astrocyte	protein_folding	Protein folding	-1.69771836550436	0.000785795196535074	1	-0.970111214660472	0.664335664335664	0.837837837837838	TRUE	FALSE	discovery_significant_direction_supported
+ALS_vs_FTD	Astrocyte	protein_stabilization	Protein stabilization	-1.35345250936694	0.0432724196181164	1	-1.22164346671882	0.159493284493285	1	TRUE	FALSE	discovery_significant_direction_supported
+ALS_vs_FTD	Astrocyte	small_GTPase	Small GTPase	-1.31469391049289	0.0675862068965517	0.9375	-1.76097288861954	3.25132759248568e-07	1	TRUE	FALSE	replication_significant_direction_supported
+ALS_vs_FTD	Astrocyte	synapse_junction	Synapse / junction assembly	-1.04259268020308	0.432648466084999	0.9375	-1.40390393704989	0.00436775378447324	1	TRUE	FALSE	replication_significant_direction_supported
+ALS_vs_FTD	OPC	axon_development	Axon development	-2.1138937290066	1.77817237848837e-05	1	-1.97385205071205	5.95420829798025e-09	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+ALS_vs_FTD	OPC	heat_response	Heat response	-1.50421835680148	0.0761658031088083	1	1.04384734380805	0.535691003911343	1	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	OPC	mitochondrial_energy	Mitochondrial energy	-1.36081724236568	0.155109690221585	1	2.13316345765382	1.29871856209587e-06	1	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	OPC	protein_folding	Protein folding	-1.84560071902792	6.4375098727079e-05	1	1.16098378564391	0.189957432508121	1	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	OPC	protein_stabilization	Protein stabilization	-1.35549155461325	0.045240297254273	1	0.960927828318501	0.761574074074074	1	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	OPC	small_GTPase	Small GTPase	-1.41598854946698	0.0209085896390258	1	-1.73890158493508	1.05707760431561e-06	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+ALS_vs_FTD	OPC	synapse_junction	Synapse / junction assembly	-1.84747532200089	0.000798082707668802	1	-2.01801819925782	9.5e-10	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+ALS_vs_FTD	Oligodendrocyte	axon_development	Axon development	-1.88157198157206	0.000771636743470135	1	0.996740038435874	0.585282976827095	0.783783783783784	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	Oligodendrocyte	heat_response	Heat response	-0.93445139239187	0.596562425399857	0.941176470588235	0.756690653726675	0.928963162251656	0.810810810810811	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	Oligodendrocyte	mitochondrial_energy	Mitochondrial energy	-2.19372712824255	0.000562972475906921	1	1.39835386764301	0.014916121643777	1	FALSE	TRUE	discordant_direction
+ALS_vs_FTD	Oligodendrocyte	protein_folding	Protein folding	-1.58964458798259	0.00291577850936384	1	1.01939024359638	0.580599209631468	0.945945945945946	FALSE	FALSE	discordant_direction
+ALS_vs_FTD	Oligodendrocyte	protein_stabilization	Protein stabilization	-1.43802007800456	0.0115983391643918	1	-0.931040424907337	0.763222244133307	0.675675675675676	TRUE	FALSE	discovery_significant_direction_supported
+ALS_vs_FTD	Oligodendrocyte	small_GTPase	Small GTPase	-1.49296886697339	0.0087246776880107	1	-0.739075783682013	0.998842592592593	0.297297297297297	TRUE	FALSE	discovery_significant_direction_supported
+ALS_vs_FTD	Oligodendrocyte	synapse_junction	Synapse / junction assembly	-1.34846461211024	0.116306932801745	1	-0.791316035350151	0.98989898989899	0.621621621621622	TRUE	FALSE	direction_only
+FTD_vs_Control	Astrocyte	axon_development	Axon development	1.64793064899862	0.00584735676352736	1	1.33345184573698	0.0137635190727288	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	Astrocyte	heat_response	Heat response	1.44428495452126	0.0750178613955704	1	-0.983825350789902	0.626552462526767	0.783783783783784	FALSE	FALSE	discordant_direction
+FTD_vs_Control	Astrocyte	mitochondrial_energy	Mitochondrial energy	0.774592021664811	0.787539936102236	0.6875	-1.69094747786513	0.00157438738149665	1	FALSE	FALSE	discordant_direction
+FTD_vs_Control	Astrocyte	protein_folding	Protein folding	1.84419732639559	6.4375098727079e-05	1	-0.798267929106297	0.98509139375476	0.837837837837838	FALSE	FALSE	discordant_direction
+FTD_vs_Control	Astrocyte	protein_stabilization	Protein stabilization	1.62237930103362	0.000916648049200791	1	-0.911886472474558	0.85185892133783	0.864864864864865	FALSE	FALSE	discordant_direction
+FTD_vs_Control	Astrocyte	small_GTPase	Small GTPase	1.67635785211178	0.000490430425460588	1	1.5450456354864	0.000125365064230319	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	Astrocyte	synapse_junction	Synapse / junction assembly	1.62158793371156	0.0127317654003532	1	1.30057196334766	0.013383207575266	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	OPC	axon_development	Axon development	2.28832436912744	4.38268536778105e-06	1	1.56079971579756	9.33930923128156e-05	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	OPC	heat_response	Heat response	1.65287895721478	0.0319449600939783	1	0.836141793286992	0.867801418439716	0.891891891891892	TRUE	FALSE	discovery_significant_direction_supported
+FTD_vs_Control	OPC	mitochondrial_energy	Mitochondrial energy	1.65964428122134	0.030405493138356	1	-1.35389320460953	0.077619646600505	1	FALSE	FALSE	discordant_direction
+FTD_vs_Control	OPC	protein_folding	Protein folding	1.89011493429251	0.000113790603116392	1	0.782268150883125	0.98509139375476	0.783783783783784	TRUE	FALSE	discovery_significant_direction_supported
+FTD_vs_Control	OPC	protein_stabilization	Protein stabilization	1.7130504306272	0.000588422115458597	1	-1.00288531741737	0.593553719008265	0.918918918918919	FALSE	FALSE	discordant_direction
+FTD_vs_Control	OPC	small_GTPase	Small GTPase	1.81066808677671	0.000129093145416057	1	1.29768643179756	0.0152995540323966	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	OPC	synapse_junction	Synapse / junction assembly	2.01168591718957	0.000528403557217806	1	1.47485713114834	0.000380414942101717	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	Oligodendrocyte	axon_development	Axon development	1.86260798257112	0.00109498894630711	1	0.988826654715216	0.644635382242785	0.918918918918919	TRUE	FALSE	discovery_significant_direction_supported
+FTD_vs_Control	Oligodendrocyte	heat_response	Heat response	1.12325744253865	0.334964475603444	0.941176470588235	1.58749927976372	0.0120509147008666	1	TRUE	FALSE	replication_significant_direction_supported
+FTD_vs_Control	Oligodendrocyte	mitochondrial_energy	Mitochondrial energy	2.00565036910229	0.00310560938645105	1	1.78545509256534	0.000271411411759724	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	Oligodendrocyte	protein_folding	Protein folding	1.90623831061021	6.4375098727079e-05	1	1.76135842209651	5.66738317960331e-05	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	Oligodendrocyte	protein_stabilization	Protein stabilization	1.60945522210013	0.00122547196288273	1	1.72783148209309	0.000249509415091195	1	TRUE	TRUE	bidirectional_global_FDR_concordant
+FTD_vs_Control	Oligodendrocyte	small_GTPase	Small GTPase	1.83903316513648	6.4375098727079e-05	1	1.0488032627198	0.455561564809807	0.972972972972973	TRUE	FALSE	discovery_significant_direction_supported
+FTD_vs_Control	Oligodendrocyte	synapse_junction	Synapse / junction assembly	1.30779727341311	0.127627511412745	1	0.901658446589466	0.909508196721312	0.918918918918919	TRUE	FALSE	direction_only

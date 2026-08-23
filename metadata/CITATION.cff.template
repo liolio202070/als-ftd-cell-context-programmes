@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or Source Data, please cite the archived release and the associated manuscript."
+title: "Cell-context programmes across the ALS-FTD spectrum under external same-nucleus multiome testing"
+type: software
+version: "1.0.0"
+date-released: "YYYY-MM-DD"
+authors:
+  - family-names: "TO_BE_CONFIRMED"
+    given-names: "TO_BE_CONFIRMED"
+repository-code: "https://github.com/liolio202070/als-ftd-cell-context-programmes"
+doi: "ZENODO_DOI_TO_BE_INSERTED"
+license: "LICENSE_TO_BE_CONFIRMED"

@@ -1,0 +1,9 @@
+disease_group	gene	junctions
+Control	STMN2	2
+C9-ALS	STMN2	17
+C9-ALS-FTD	STMN2	31
+C9-FTD	STMN2	85
+Control	KALRN	2
+C9-ALS	KALRN	2
+C9-ALS-FTD	KALRN	8
+C9-FTD	KALRN	51

@@ -1,0 +1,4 @@
+estimand	cell_type	family_id	family_label	effect_discovery	adjusted_p_discovery	loo_direction_fraction_discovery	effect_replication	adjusted_p_replication	loo_direction_fraction_replication	same_direction	both_global_FDR_0_05	replication_class
+ALS_vs_Control	Astrocyte	small_GTPase	Small GTPase	1.67538289060368	0.000856153027991897	1	-1.37334706733224	0.00421268449695208	1	FALSE	TRUE	discordant_direction
+ALS_vs_Control	OPC	small_GTPase	Small GTPase	1.92895220727043	0.000064375098727079	1	-1.72433039365185	0.00000201838015179447	1	FALSE	TRUE	discordant_direction
+ALS_vs_FTD	Oligodendrocyte	mitochondrial_energy	Mitochondrial energy	-2.19372712824255	0.000562972475906921	1	1.39835386764301	0.014916121643777	1	FALSE	TRUE	discordant_direction

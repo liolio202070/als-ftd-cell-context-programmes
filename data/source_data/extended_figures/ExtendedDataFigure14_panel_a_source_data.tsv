@@ -1,0 +1,7 @@
+gate	pass_n	drop_n	cumulative_fraction	gate_label	final_gate
+全部轴	126		1	All frozen axes	FALSE
+G1_全局家族FDR<0.05	65		0.516	G1  Family FDR	FALSE
+G2_供体LOO≥90%(累计)	65		0.516	G2  Donor LOO	FALSE
+G3_技术+年龄同向(累计)	63		0.5	G3  Technical + age	FALSE
+G4_SVA12同向(累计)	55		0.437	G4  SVA12 direction	FALSE
+G5_SVA12全局FDR<0.05(累计)	40		0.317	G5  SVA12 FDR	TRUE

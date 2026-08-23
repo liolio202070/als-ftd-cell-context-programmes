@@ -1,0 +1,11 @@
+{
+  "types": {"resourceTypeGeneral": "Software", "resourceType": "Research compendium"},
+  "titles": [{"title": "Cell-context programmes across the ALS-FTD spectrum under external same-nucleus multiome testing"}],
+  "creators": [{"name": "TO BE CONFIRMED"}],
+  "publisher": "Zenodo",
+  "publicationYear": "YYYY",
+  "version": "1.0.0",
+  "descriptions": [{"descriptionType": "Abstract", "description": "Frozen code, Source Data, compact supplementary outputs and figures for the associated ALS-FTD manuscript."}],
+  "rightsList": [{"rights": "TO BE CONFIRMED"}],
+  "url": "https://github.com/liolio202070/als-ftd-cell-context-programmes"
+}

@@ -1,0 +1,10 @@
+first_failed_gate	n_axes	subset
+G1_全局家族FDR	61	全部126轴
+全部通过	40	全部126轴
+G5_SVA12全局FDR	15	全部126轴
+G4_SVA12方向	8	全部126轴
+G3_技术+年龄方向	2	全部126轴
+G1_全局家族FDR	26	ALS_vs_Control 21轴
+全部通过	10	ALS_vs_Control 21轴
+G5_SVA12全局FDR	5	ALS_vs_Control 21轴
+G4_SVA12方向	1	ALS_vs_Control 21轴

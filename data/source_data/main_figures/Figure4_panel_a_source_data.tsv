@@ -1,0 +1,120 @@
+gene	evidence_tier	evidence_score	layer	value	supported	layer_label
+BAG3	Tier 1: convergent multi-layer driver	24	original7_comparisons	5	TRUE	Original 7
+HSP90AA1	Tier 1: convergent multi-layer driver	24	original7_comparisons	7	TRUE	Original 7
+HSP90AB1	Tier 1: convergent multi-layer driver	24	original7_comparisons	7	TRUE	Original 7
+CHORDC1	Tier 1: convergent multi-layer driver	23	original7_comparisons	7	TRUE	Original 7
+ARHGAP35	Tier 1: convergent multi-layer driver	22	original7_comparisons	5	TRUE	Original 7
+PARK7	Tier 2: robust transcriptomic driver	22	original7_comparisons	7	TRUE	Original 7
+CCT5	Tier 1: convergent multi-layer driver	21	original7_comparisons	6	TRUE	Original 7
+ARHGAP39	Tier 1: convergent multi-layer driver	20	original7_comparisons	6	TRUE	Original 7
+COX5B	Tier 1: convergent multi-layer driver	20	original7_comparisons	6	TRUE	Original 7
+COX7C	Tier 1: convergent multi-layer driver	20	original7_comparisons	6	TRUE	Original 7
+MAP1B	Tier 2: robust transcriptomic driver	20	original7_comparisons	5	TRUE	Original 7
+MAPT	Tier 2: robust transcriptomic driver	20	original7_comparisons	5	TRUE	Original 7
+BCR	Tier 2: robust transcriptomic driver	19	original7_comparisons	6	TRUE	Original 7
+CCT8	Tier 2: robust transcriptomic driver	19	original7_comparisons	4	TRUE	Original 7
+COA3	Tier 2: robust transcriptomic driver	19	original7_comparisons	4	TRUE	Original 7
+DOCK7	Tier 2: robust transcriptomic driver	19	original7_comparisons	4	TRUE	Original 7
+STARD13	Tier 2: robust transcriptomic driver	19	original7_comparisons	4	TRUE	Original 7
+BAG3	Tier 1: convergent multi-layer driver	24	same_cell_significant_comparisons	6	TRUE	Same-cell programmes
+HSP90AA1	Tier 1: convergent multi-layer driver	24	same_cell_significant_comparisons	7	TRUE	Same-cell programmes
+HSP90AB1	Tier 1: convergent multi-layer driver	24	same_cell_significant_comparisons	7	TRUE	Same-cell programmes
+CHORDC1	Tier 1: convergent multi-layer driver	23	same_cell_significant_comparisons	7	TRUE	Same-cell programmes
+ARHGAP35	Tier 1: convergent multi-layer driver	22	same_cell_significant_comparisons	6	TRUE	Same-cell programmes
+PARK7	Tier 2: robust transcriptomic driver	22	same_cell_significant_comparisons	6	TRUE	Same-cell programmes
+CCT5	Tier 1: convergent multi-layer driver	21	same_cell_significant_comparisons	4	TRUE	Same-cell programmes
+ARHGAP39	Tier 1: convergent multi-layer driver	20	same_cell_significant_comparisons	6	TRUE	Same-cell programmes
+COX5B	Tier 1: convergent multi-layer driver	20	same_cell_significant_comparisons	3	TRUE	Same-cell programmes
+COX7C	Tier 1: convergent multi-layer driver	20	same_cell_significant_comparisons	3	TRUE	Same-cell programmes
+MAP1B	Tier 2: robust transcriptomic driver	20	same_cell_significant_comparisons	6	TRUE	Same-cell programmes
+MAPT	Tier 2: robust transcriptomic driver	20	same_cell_significant_comparisons	6	TRUE	Same-cell programmes
+BCR	Tier 2: robust transcriptomic driver	19	same_cell_significant_comparisons	4	TRUE	Same-cell programmes
+CCT8	Tier 2: robust transcriptomic driver	19	same_cell_significant_comparisons	2	TRUE	Same-cell programmes
+COA3	Tier 2: robust transcriptomic driver	19	same_cell_significant_comparisons	4	TRUE	Same-cell programmes
+DOCK7	Tier 2: robust transcriptomic driver	19	same_cell_significant_comparisons	7	TRUE	Same-cell programmes
+STARD13	Tier 2: robust transcriptomic driver	19	same_cell_significant_comparisons	5	TRUE	Same-cell programmes
+BAG3	Tier 1: convergent multi-layer driver	24	external_FTD_comparisons	2	TRUE	External FTD
+HSP90AA1	Tier 1: convergent multi-layer driver	24	external_FTD_comparisons	2	TRUE	External FTD
+HSP90AB1	Tier 1: convergent multi-layer driver	24	external_FTD_comparisons	1	TRUE	External FTD
+CHORDC1	Tier 1: convergent multi-layer driver	23	external_FTD_comparisons	2	TRUE	External FTD
+ARHGAP35	Tier 1: convergent multi-layer driver	22	external_FTD_comparisons	1	TRUE	External FTD
+PARK7	Tier 2: robust transcriptomic driver	22	external_FTD_comparisons	1	TRUE	External FTD
+CCT5	Tier 1: convergent multi-layer driver	21	external_FTD_comparisons	1	TRUE	External FTD
+ARHGAP39	Tier 1: convergent multi-layer driver	20	external_FTD_comparisons	1	TRUE	External FTD
+COX5B	Tier 1: convergent multi-layer driver	20	external_FTD_comparisons	1	TRUE	External FTD
+COX7C	Tier 1: convergent multi-layer driver	20	external_FTD_comparisons	1	TRUE	External FTD
+MAP1B	Tier 2: robust transcriptomic driver	20	external_FTD_comparisons	0	FALSE	External FTD
+MAPT	Tier 2: robust transcriptomic driver	20	external_FTD_comparisons	0	FALSE	External FTD
+BCR	Tier 2: robust transcriptomic driver	19	external_FTD_comparisons	0	FALSE	External FTD
+CCT8	Tier 2: robust transcriptomic driver	19	external_FTD_comparisons	1	TRUE	External FTD
+COA3	Tier 2: robust transcriptomic driver	19	external_FTD_comparisons	0	FALSE	External FTD
+DOCK7	Tier 2: robust transcriptomic driver	19	external_FTD_comparisons	2	TRUE	External FTD
+STARD13	Tier 2: robust transcriptomic driver	19	external_FTD_comparisons	2	TRUE	External FTD
+BAG3	Tier 1: convergent multi-layer driver	24	GSE330_significant_units	5	TRUE	Regional snRNA/spatial
+HSP90AA1	Tier 1: convergent multi-layer driver	24	GSE330_significant_units	10	TRUE	Regional snRNA/spatial
+HSP90AB1	Tier 1: convergent multi-layer driver	24	GSE330_significant_units	8	TRUE	Regional snRNA/spatial
+CHORDC1	Tier 1: convergent multi-layer driver	23	GSE330_significant_units	12	TRUE	Regional snRNA/spatial
+ARHGAP35	Tier 1: convergent multi-layer driver	22	GSE330_significant_units	4	TRUE	Regional snRNA/spatial
+PARK7	Tier 2: robust transcriptomic driver	22	GSE330_significant_units	0	FALSE	Regional snRNA/spatial
+CCT5	Tier 1: convergent multi-layer driver	21	GSE330_significant_units	14	TRUE	Regional snRNA/spatial
+ARHGAP39	Tier 1: convergent multi-layer driver	20	GSE330_significant_units	1	TRUE	Regional snRNA/spatial
+COX5B	Tier 1: convergent multi-layer driver	20	GSE330_significant_units	12	TRUE	Regional snRNA/spatial
+COX7C	Tier 1: convergent multi-layer driver	20	GSE330_significant_units	11	TRUE	Regional snRNA/spatial
+MAP1B	Tier 2: robust transcriptomic driver	20	GSE330_significant_units	4	TRUE	Regional snRNA/spatial
+MAPT	Tier 2: robust transcriptomic driver	20	GSE330_significant_units	5	TRUE	Regional snRNA/spatial
+BCR	Tier 2: robust transcriptomic driver	19	GSE330_significant_units	4	TRUE	Regional snRNA/spatial
+CCT8	Tier 2: robust transcriptomic driver	19	GSE330_significant_units	11	TRUE	Regional snRNA/spatial
+COA3	Tier 2: robust transcriptomic driver	19	GSE330_significant_units	3	TRUE	Regional snRNA/spatial
+DOCK7	Tier 2: robust transcriptomic driver	19	GSE330_significant_units	0	FALSE	Regional snRNA/spatial
+STARD13	Tier 2: robust transcriptomic driver	19	GSE330_significant_units	3	TRUE	Regional snRNA/spatial
+BAG3	Tier 1: convergent multi-layer driver	24	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+HSP90AA1	Tier 1: convergent multi-layer driver	24	same_donor_ATAC_significant_axes	1	TRUE	Same-donor ATAC
+HSP90AB1	Tier 1: convergent multi-layer driver	24	same_donor_ATAC_significant_axes	1	TRUE	Same-donor ATAC
+CHORDC1	Tier 1: convergent multi-layer driver	23	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+ARHGAP35	Tier 1: convergent multi-layer driver	22	same_donor_ATAC_significant_axes	1	TRUE	Same-donor ATAC
+PARK7	Tier 2: robust transcriptomic driver	22	same_donor_ATAC_significant_axes	2	TRUE	Same-donor ATAC
+CCT5	Tier 1: convergent multi-layer driver	21	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+ARHGAP39	Tier 1: convergent multi-layer driver	20	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+COX5B	Tier 1: convergent multi-layer driver	20	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+COX7C	Tier 1: convergent multi-layer driver	20	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+MAP1B	Tier 2: robust transcriptomic driver	20	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+MAPT	Tier 2: robust transcriptomic driver	20	same_donor_ATAC_significant_axes	1	TRUE	Same-donor ATAC
+BCR	Tier 2: robust transcriptomic driver	19	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+CCT8	Tier 2: robust transcriptomic driver	19	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+COA3	Tier 2: robust transcriptomic driver	19	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+DOCK7	Tier 2: robust transcriptomic driver	19	same_donor_ATAC_significant_axes	1	TRUE	Same-donor ATAC
+STARD13	Tier 2: robust transcriptomic driver	19	same_donor_ATAC_significant_axes	0	FALSE	Same-donor ATAC
+BAG3	Tier 1: convergent multi-layer driver	24	proteomics_detected	1	TRUE	Proteomics
+HSP90AA1	Tier 1: convergent multi-layer driver	24	proteomics_detected	1	TRUE	Proteomics
+HSP90AB1	Tier 1: convergent multi-layer driver	24	proteomics_detected	1	TRUE	Proteomics
+CHORDC1	Tier 1: convergent multi-layer driver	23	proteomics_detected	1	TRUE	Proteomics
+ARHGAP35	Tier 1: convergent multi-layer driver	22	proteomics_detected	1	TRUE	Proteomics
+PARK7	Tier 2: robust transcriptomic driver	22	proteomics_detected	1	TRUE	Proteomics
+CCT5	Tier 1: convergent multi-layer driver	21	proteomics_detected	1	TRUE	Proteomics
+ARHGAP39	Tier 1: convergent multi-layer driver	20	proteomics_detected	1	TRUE	Proteomics
+COX5B	Tier 1: convergent multi-layer driver	20	proteomics_detected	1	TRUE	Proteomics
+COX7C	Tier 1: convergent multi-layer driver	20	proteomics_detected	1	TRUE	Proteomics
+MAP1B	Tier 2: robust transcriptomic driver	20	proteomics_detected	1	TRUE	Proteomics
+MAPT	Tier 2: robust transcriptomic driver	20	proteomics_detected	1	TRUE	Proteomics
+BCR	Tier 2: robust transcriptomic driver	19	proteomics_detected	1	TRUE	Proteomics
+CCT8	Tier 2: robust transcriptomic driver	19	proteomics_detected	1	TRUE	Proteomics
+COA3	Tier 2: robust transcriptomic driver	19	proteomics_detected	1	TRUE	Proteomics
+DOCK7	Tier 2: robust transcriptomic driver	19	proteomics_detected	1	TRUE	Proteomics
+STARD13	Tier 2: robust transcriptomic driver	19	proteomics_detected	0	FALSE	Proteomics
+BAG3	Tier 1: convergent multi-layer driver	24	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+HSP90AA1	Tier 1: convergent multi-layer driver	24	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+HSP90AB1	Tier 1: convergent multi-layer driver	24	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+CHORDC1	Tier 1: convergent multi-layer driver	23	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+ARHGAP35	Tier 1: convergent multi-layer driver	22	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+PARK7	Tier 2: robust transcriptomic driver	22	external_or_crossmodal_layers	1	TRUE	External/cross-modal
+CCT5	Tier 1: convergent multi-layer driver	21	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+ARHGAP39	Tier 1: convergent multi-layer driver	20	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+COX5B	Tier 1: convergent multi-layer driver	20	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+COX7C	Tier 1: convergent multi-layer driver	20	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+MAP1B	Tier 2: robust transcriptomic driver	20	external_or_crossmodal_layers	1	TRUE	External/cross-modal
+MAPT	Tier 2: robust transcriptomic driver	20	external_or_crossmodal_layers	1	TRUE	External/cross-modal
+BCR	Tier 2: robust transcriptomic driver	19	external_or_crossmodal_layers	1	TRUE	External/cross-modal
+CCT8	Tier 2: robust transcriptomic driver	19	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+COA3	Tier 2: robust transcriptomic driver	19	external_or_crossmodal_layers	1	TRUE	External/cross-modal
+DOCK7	Tier 2: robust transcriptomic driver	19	external_or_crossmodal_layers	2	TRUE	External/cross-modal
+STARD13	Tier 2: robust transcriptomic driver	19	external_or_crossmodal_layers	2	TRUE	External/cross-modal

@@ -1,0 +1,8 @@
+contrast	count	gate	contrast_label
+ALSFTD_vs_Control	24	Base within-cohort	ALS-FTD vs control
+ALS_vs_ALSFTD	23	Base within-cohort	ALS vs ALS-FTD
+ALS_vs_Control	16	Base within-cohort	ALS vs control
+ALSFTD_vs_Control	16	Final incl. SVA12	ALS-FTD vs control
+ALS_vs_ALSFTD	14	Final incl. SVA12	ALS vs ALS-FTD
+ALS_vs_Control	10	Final incl. SVA12	ALS vs control
+ALS_vs_Control	0	Three-cohort full gate	ALS vs control

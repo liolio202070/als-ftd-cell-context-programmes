@@ -1,0 +1,14 @@
+{
+  "title": "Cell-context programmes across the ALS-FTD spectrum under external same-nucleus multiome testing",
+  "upload_type": "software",
+  "description": "Frozen analysis code, panel-level Source Data, compact supplementary outputs and submission figures for a donor-aware reanalysis of public ALS-FTD transcriptomic, chromatin, multiome, perturbation and GWAS resources.",
+  "creators": [
+    {"name": "TO BE CONFIRMED", "affiliation": "TO BE CONFIRMED", "orcid": "TO BE CONFIRMED"}
+  ],
+  "version": "1.0.0",
+  "license": "TO_BE_CONFIRMED",
+  "keywords": ["ALS", "FTD", "C9orf72", "TDP-43", "single-nucleus sequencing", "multiome", "pseudobulk"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/liolio202070/als-ftd-cell-context-programmes", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

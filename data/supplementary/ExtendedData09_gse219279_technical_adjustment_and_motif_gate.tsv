@@ -1,0 +1,18 @@
+layer	tests	raw_global_significant	raw_global_sig_direction_retained	raw_global_sig_technical_nominal	raw_global_sig_technical_global	all_test_direction_concordance	effect_spearman	record_type	comparison	role	genes_compared	promoter_RNA_direction_concordance	geneScore_RNA_direction_concordance	three_layer_direction_concordance	promoter_RNA_spearman	joint_comparison_FDR_support	joint_nominal_support	capability	available
+promoter_tile	1350	79	79	14	0	0.748148148148148	0.688184208886833	technical_adjustment_summary											
+promoter_gene	150	20	20	10	0	0.66	0.660514689541758	technical_adjustment_summary											
+mechanism_family	35	7	7	2	0	0.485714285714286	0.730532212885154	technical_adjustment_summary											
+motif_linked_score	25	4	4	0	0	0.48	0.825384615384616	technical_adjustment_summary											
+								targeted_concordance	ALS_motor_Astro_context	supportive_context	30	0.566666666666667	0.633333333333333	0.533333333333333	0.41979977753059	0	1		
+								targeted_concordance	ALS_motor_Exc_deep	primary_axis	30	0.3	0.3	0.133333333333333	-0.198220244716352	0	0		
+								targeted_concordance	ALS_motor_Exc_intermediate	primary_axis	30	0.533333333333333	0.366666666666667	0.266666666666667	0.125250278086763	0	0		
+								targeted_concordance	ALS_motor_Exc_upper	primary_axis	29	0.586206896551724	0.586206896551724	0.482758620689655	-0.112807881773399	0	0		
+								targeted_concordance	FTD_frontal_Astro	primary_axis	30	0.0333333333333333	0.2	0.0333333333333333	-0.0705228031145718	0	0		
+								targeted_concordance	FTD_frontal_Oligo	primary_axis	28	0.142857142857143	0.321428571428571	0.142857142857143	0.15216201423098	0	1		
+								capability_gate										GeneScoreMatrix	TRUE
+								capability_gate										TileMatrix	TRUE
+								capability_gate										PeakMatrix	FALSE
+								capability_gate										peak_set	FALSE
+								capability_gate										motif_annotations	FALSE
+								capability_gate										reduced_dimensions	FALSE
+								capability_gate										impute_weights	FALSE

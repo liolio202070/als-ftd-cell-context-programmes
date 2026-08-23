@@ -1,0 +1,10 @@
+dataset	capability	available	capability_label	status_label
+GSE219280 primary snRNA	alignment_or_junction_input_available	FALSE	Junction input	no
+Gittings 2023 independent C9 spectrum	alignment_or_junction_input_available	TRUE	Junction input	yes
+Ma 2022 TDP-43-negative human neuronal nuclei	alignment_or_junction_input_available	TRUE	Junction input	yes
+GSE219280 primary snRNA	de_novo_splicing_inference_possible	FALSE	De novo inference	no
+Gittings 2023 independent C9 spectrum	de_novo_splicing_inference_possible	FALSE	De novo inference	no
+Ma 2022 TDP-43-negative human neuronal nuclei	de_novo_splicing_inference_possible	FALSE	De novo inference	no
+GSE219280 primary snRNA	reproducible_secondary_extraction_possible	FALSE	Reproducible published extraction	no
+Gittings 2023 independent C9 spectrum	reproducible_secondary_extraction_possible	TRUE	Reproducible published extraction	yes
+Ma 2022 TDP-43-negative human neuronal nuclei	reproducible_secondary_extraction_possible	TRUE	Reproducible published extraction	yes

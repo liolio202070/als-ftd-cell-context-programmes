@@ -1,0 +1,27 @@
+gene	set_label	score	mapped_terms
+COX5B	Mitochondrial energy	20	1
+COX7C	Mitochondrial energy	20	1
+HSP90AA1	Protein folding	24	1
+HSP90AB1	Protein folding	24	1
+BAG3	Protein folding	24	1
+CCT8	Protein folding	19	1
+CCT5	Protein folding	21	1
+CHORDC1	Protein folding	23	1
+COA3	Protein folding	19	1
+BCR	Small GTPase	19	2
+DOCK7	Small GTPase	19	1
+MAP1B	Axon development	20	1
+DOCK7	Axon development	19	1
+MAP1B	Synapse / junction assembly	20	1
+MAPT	Synapse / junction assembly	20	1
+HSP90AA1	Heat response	24	1
+HSP90AA1	Protein stabilization	24	1
+HSP90AB1	Protein stabilization	24	1
+BAG3	Protein stabilization	24	1
+CCT8	Protein stabilization	19	1
+PARK7	Protein stabilization	22	1
+CCT5	Protein stabilization	21	1
+ARHGAP35	Small GTPase	22	1
+ARHGAP39	Small GTPase	20	1
+STARD13	Small GTPase	19	1
+MAPT	Axon development	20	1

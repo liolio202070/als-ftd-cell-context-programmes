@@ -1,0 +1,7 @@
+layer	grade	label	detail
+Donor-aware discovery	3	strong	35/63 axes, global FDR < 0.05
+External C9 programmes	3	strong	13 dual-FDR axes
+Ruf frozen diagnostic test	3	strong	40/126 axes, 79 donors
+GRN-FTD background support	2	supportive	3 axes, direction-stable
+Paired multiome pathology burden	2	supportive	8 RNA trends + 7 links
+Complete RNA–ATAC chain	0	not established	0 complete chains

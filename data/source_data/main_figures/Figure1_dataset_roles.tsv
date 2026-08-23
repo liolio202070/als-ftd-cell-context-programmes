@@ -1,0 +1,10 @@
+group	ymin	ymax	title	detail
+discovery	72	78.4	GSE219279/280	"17 donors; snRNA + same-donor ATAC
+BA4 motor + BA9 frontal"
+external	63	67.8	Gittings 2023	37 donor identifiers; C9 programme replication
+external	57.2	62	Ruf 2026	79 donors; frozen diagnostic portability
+external	51.4	56.2	GSE153960	229 donors; bulk RNA tissue/composition context
+orthogonal	42.2	47.1	GSE212630	26 donors; paired multiome + ordinal pTDP
+orthogonal	36.3	41.2	GSE163122	9 donors; GRN-FTD cross-genetic boundary
+anchor	27.2	32.1	GSE296710/714	Two iPSC-neuron TDP-43-loss datasets
+anchor	21.3	26.2	ALS GWAS / MAGMA	29,612 cases / 122,656 controls; genetic anchoring

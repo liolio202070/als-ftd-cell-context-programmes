@@ -1,0 +1,36 @@
+check	observed	expected	pass
+Figure1 dataset-role rows	8	8	TRUE
+Figure2 discovery axes	63	63	TRUE
+Figure2 global-FDR axes	35	35	TRUE
+Figure2 threshold rows direction retained	126	126	TRUE
+Figure3 exact axes	63	63	TRUE
+Figure3 same-direction axes	39	39	TRUE
+Figure3 strict replicated axes	13	13	TRUE
+Figure3 Gittings strict axes	68	68	TRUE
+Figure3 Gittings >=90% LOO	68	68	TRUE
+Figure3 Gittings 100% LOO	66	66	TRUE
+Figure3 Gittings donor omissions	37	37	TRUE
+Figure3 GRN axes	3	3	TRUE
+Figure3 GRN donors	9	9	TRUE
+Figure3 GRN LOO retention	3	3	TRUE
+Figure4 candidate genes	17	17	TRUE
+Figure4 STMN2 delta PSI	0.706	0.706	TRUE
+Figure4 KALRN delta PSI	0.831	0.831	TRUE
+Figure4 UNC13A delta PSI	0.836	0.836	TRUE
+Figure5 astrocyte beta	-0.840209208987552	-0.840209208987552	TRUE
+Figure5 astrocyte CI low	-1.18204396526168	-1.18204396526168	TRUE
+Figure5 astrocyte CI high	-0.498374452713428	-0.498374452713428	TRUE
+Figure5 astrocyte global FDR	0.039908208056746	0.039908208056746	TRUE
+Figure5 candidate RNA hits	8	8	TRUE
+Figure5 candidate RNA 100% LOO	8	8	TRUE
+Figure5 microglial BAG3 transcriptome FDR	0.0442607528367038	0.04426075	TRUE
+Figure5 total DAR	409	409	TRUE
+Figure5 MG DAR	3	3	TRUE
+Figure5 ODC DAR	406	406	TRUE
+Figure5 peak-gene links	7	7	TRUE
+Figure5 rho minimum	-0.854945054945055	-0.854945054945055	TRUE
+Figure5 rho maximum	0.89010989010989	0.89010989010989	TRUE
+Figure5 complete chains	0	0	TRUE
+No FINAL_VALUE_PENDING in manuscript markdown	FALSE	FALSE	TRUE
+RNA-ATAC causal boundary present	TRUE	TRUE	TRUE
+LOO boundary present	TRUE	TRUE	TRUE

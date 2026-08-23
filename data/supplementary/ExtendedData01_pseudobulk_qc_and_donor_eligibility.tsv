@@ -1,0 +1,62 @@
+condition_region	n_samples	n_donors	median_nuclei	minimum_nuclei_observed	median_library_size	analysis	cell_type	record_type	threshold	minimum_nuclei	analysis_role	contrast	ranked_genes	family_sets_tested	term_sets_tested	duplicate_gene_rows
+ALS_MCX	6	6	463	85	3110496	all_disease_core_glia	Astro	donor_stratum_coverage								
+ALS_FCX	6	6	471.5	133	2729288	all_disease_core_glia	Astro	donor_stratum_coverage								
+FTD_MCX	4	4	212	55	1325252.5	all_disease_core_glia	Astro	donor_stratum_coverage								
+FTD_FCX	4	4	250.5	39	2020894.5	all_disease_core_glia	Astro	donor_stratum_coverage								
+Ctrl_MCX	6	6	504	283	5028944.5	all_disease_core_glia	Astro	donor_stratum_coverage								
+Ctrl_FCX	5	5	528	360	5900862	all_disease_core_glia	Astro	donor_stratum_coverage								
+ALS_MCX	6	6	196	136	1612350.5	all_disease_core_glia	OPC	donor_stratum_coverage								
+ALS_FCX	6	6	185	99	1666698.5	all_disease_core_glia	OPC	donor_stratum_coverage								
+FTD_MCX	5	5	118	80	915023	all_disease_core_glia	OPC	donor_stratum_coverage								
+FTD_FCX	4	4	143	90	1398528	all_disease_core_glia	OPC	donor_stratum_coverage								
+Ctrl_MCX	6	6	161	60	1663519.5	all_disease_core_glia	OPC	donor_stratum_coverage								
+Ctrl_FCX	6	6	137	49	1334142	all_disease_core_glia	OPC	donor_stratum_coverage								
+ALS_MCX	6	6	2592.5	492	11561736	all_disease_core_glia	Oligo	donor_stratum_coverage								
+ALS_FCX	6	6	1501	762	6620889	all_disease_core_glia	Oligo	donor_stratum_coverage								
+FTD_MCX	5	5	174	134	908324	all_disease_core_glia	Oligo	donor_stratum_coverage								
+FTD_FCX	4	4	744.5	347	3560279.5	all_disease_core_glia	Oligo	donor_stratum_coverage								
+Ctrl_MCX	6	6	2030	1307	14357989.5	all_disease_core_glia	Oligo	donor_stratum_coverage								
+Ctrl_FCX	6	6	2353.5	1591	11775848	all_disease_core_glia	Oligo	donor_stratum_coverage								
+ALS_MCX	6	6	134	40	5125307	ALS_focused	Exc_deep	donor_stratum_coverage								
+ALS_FCX	6	6	207	47	6542065	ALS_focused	Exc_deep	donor_stratum_coverage								
+Ctrl_MCX	6	6	96	83	4722164.5	ALS_focused	Exc_deep	donor_stratum_coverage								
+Ctrl_FCX	5	5	274	168	8469583	ALS_focused	Exc_deep	donor_stratum_coverage								
+ALS_FCX	6	6	156	31	4183117.5	ALS_focused	Exc_intermediate	donor_stratum_coverage								
+ALS_MCX	5	5	144	86	5502184	ALS_focused	Exc_intermediate	donor_stratum_coverage								
+Ctrl_MCX	6	6	82	44	3610351.5	ALS_focused	Exc_intermediate	donor_stratum_coverage								
+Ctrl_FCX	5	5	256	115	8379597	ALS_focused	Exc_intermediate	donor_stratum_coverage								
+ALS_FCX	6	6	254	89	8086847.5	ALS_focused	Exc_upper	donor_stratum_coverage								
+ALS_MCX	5	5	341	271	10223526	ALS_focused	Exc_upper	donor_stratum_coverage								
+Ctrl_MCX	6	6	182.5	68	5892112	ALS_focused	Exc_upper	donor_stratum_coverage								
+Ctrl_FCX	5	5	323	249	9864761	ALS_focused	Exc_upper	donor_stratum_coverage								
+ALS_MCX	6	6	161.5	44	513607.5	ALS_focused	Micro	donor_stratum_coverage								
+ALS_FCX	6	6	129.5	70	400981	ALS_focused	Micro	donor_stratum_coverage								
+Ctrl_MCX	6	6	190	104	761601	ALS_focused	Micro	donor_stratum_coverage								
+Ctrl_FCX	6	6	184.5	33	607041.5	ALS_focused	Micro	donor_stratum_coverage								
+							Astro	programme_comparison_eligibility	min30_primary	30	primary	ALS_vs_Ctrl_mean	15416	7	11	0
+							Astro	programme_comparison_eligibility	min30_primary	30	primary	FTD_vs_Ctrl_mean	15416	7	11	0
+							Astro	programme_comparison_eligibility	min30_primary	30	primary	ALS_vs_FTD_mean	15416	7	11	0
+							OPC	programme_comparison_eligibility	min30_primary	30	primary	ALS_vs_Ctrl_mean	12825	7	11	0
+							OPC	programme_comparison_eligibility	min30_primary	30	primary	FTD_vs_Ctrl_mean	12825	7	11	0
+							OPC	programme_comparison_eligibility	min30_primary	30	primary	ALS_vs_FTD_mean	12825	7	11	0
+							Oligo	programme_comparison_eligibility	min30_primary	30	primary	ALS_vs_Ctrl_mean	16304	7	11	0
+							Oligo	programme_comparison_eligibility	min30_primary	30	primary	FTD_vs_Ctrl_mean	16304	7	11	0
+							Oligo	programme_comparison_eligibility	min30_primary	30	primary	ALS_vs_FTD_mean	16304	7	11	0
+							Astro	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	ALS_vs_Ctrl_mean	15416	7	11	0
+							Astro	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	FTD_vs_Ctrl_mean	15416	7	11	0
+							Astro	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	ALS_vs_FTD_mean	15416	7	11	0
+							OPC	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	ALS_vs_Ctrl_mean	12825	7	11	0
+							OPC	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	FTD_vs_Ctrl_mean	12825	7	11	0
+							OPC	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	ALS_vs_FTD_mean	12825	7	11	0
+							Oligo	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	ALS_vs_Ctrl_mean	16304	7	11	0
+							Oligo	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	FTD_vs_Ctrl_mean	16304	7	11	0
+							Oligo	programme_comparison_eligibility	min20_sensitivity	20	sensitivity	ALS_vs_FTD_mean	16304	7	11	0
+							Astro	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	ALS_vs_Ctrl_mean	15943	7	11	0
+							Astro	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	FTD_vs_Ctrl_mean	15943	7	11	0
+							Astro	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	ALS_vs_FTD_mean	15943	7	11	0
+							OPC	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	ALS_vs_Ctrl_mean	12761	7	11	0
+							OPC	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	FTD_vs_Ctrl_mean	12761	7	11	0
+							OPC	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	ALS_vs_FTD_mean	12761	7	11	0
+							Oligo	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	ALS_vs_Ctrl_mean	16304	7	11	0
+							Oligo	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	FTD_vs_Ctrl_mean	16304	7	11	0
+							Oligo	programme_comparison_eligibility	min50_sensitivity	50	sensitivity	ALS_vs_FTD_mean	16304	7	11	0

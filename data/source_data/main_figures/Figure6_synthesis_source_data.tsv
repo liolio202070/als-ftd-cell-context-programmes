@@ -1,0 +1,8 @@
+evidence_layer	cohort_or_assay	primary_unit	quantitative_result	interpretation_boundary
+Discovery	GSE219280	biological donor	35 of 63 programme axes passed global primary FDR < 0.05	Cohort-specific discovery signal; not external replication
+Two-cohort replication	GSE219280 plus Gittings C9 cohort	biological donor	13 axes passed same-direction, cohort-specific global-FDR and donor-LOO gates	Exact-estimand replication within two C9 cohorts
+Frozen diagnostic test	Ruf 2026 same-nucleus RNA-ATAC cohort	biological donor	40 of 126 programme axes passed the final within-cohort gate; 0 ALS-versus-control axes passed the complete three-cohort gate	External portability test; no universal ALS axis
+Pathology-graded multiome	GSE212630 paired RNA-ATAC	biological donor	409 differential accessibility regions; 7 adjusted peak-gene correlations; 0 complete RNA-ATAC chains	Associative chromatin context, not a causal enhancer-to-gene mechanism
+TDP-43 perturbation	GSE296710 and GSE296714 iPSC cortical-neuron knockdown	independent culture sample	6 of 6 glial programme correlations were negative; exact binomial P = 0.031	Perturbation consistency is an orthogonal anchor, not human-brain replication
+Genetic anchoring	ALS GWAS and MAGMA	GWAS participant / prespecified gene set	0 of 9 programme-set tests passed P < 0.05; MAPT alone passed 0.05/17 gene-level correction	No programme-level enrichment for inherited ALS risk
+Core conclusion	Cross-cohort evidence hierarchy	biological donor whenever human-brain cohorts were analysed	Programme transfer depends on mechanism family, cell type and cohort context	Biomarker or mechanism claims require explicit external testing and measurement-compatible evidence

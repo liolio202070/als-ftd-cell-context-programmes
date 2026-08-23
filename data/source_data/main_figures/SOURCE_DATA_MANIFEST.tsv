@@ -1,0 +1,23 @@
+figure	panel_or_component	file	rows	role
+Figure1	dataset roles	Figure1_dataset_roles.tsv	8	Public dataset constellation, donor counts and assigned roles
+Figure1	evidence roles	Figure1_evidence_roles.tsv	4	Interpretive hierarchy used in the overview schematic
+Figure2	a	Figure2_panel_a_source_data.tsv	63	Discovery programme NES matrix
+Figure2	b	Figure2_panel_b_source_data.tsv	21	Phenotype-direction classes
+Figure2	c	Figure2_panel_c_source_data.tsv	126	Nucleus-threshold sensitivity
+Figure2	d	Figure2_panel_d_source_data.tsv	70	CLR captured-nucleus composition context
+Figure3	a	Figure3_panel_a_source_data.tsv	9	Exact-estimand cross-cohort directional agreement
+Figure3	b	Figure3_panel_b_source_data.tsv	20	External C9 programme landscape
+Figure3	c	Figure3_panel_c_source_data.tsv	68	Donor leave-one-out robustness
+Figure3	d	Figure3_panel_d_source_data.tsv	3	GRN-FTD cross-genetic boundary
+Figure3	e	Figure3_panel_e_source_data.tsv	153	Frozen candidate-gene directional agreement
+Figure4	a	Figure4_panel_a_source_data.tsv	119	Finite candidate evidence matrix
+Figure4	b	Figure4_panel_b_source_data.tsv	26	Programme contributor groups
+Figure4	c	Figure4_panel_c_source_data.tsv	3	Published TDP-43 event anchors
+Figure4	d	Figure4_panel_d_source_data.tsv	9	Assay-capability boundary
+Figure4	e	Figure4_panel_e_source_data.tsv	8	Published C9 event-count context
+Figure5	a	Figure5_panel_a_source_data.tsv	42	Programme associations with ordinal pTDP burden
+Figure5	b	Figure5_panel_b_source_data.tsv	102	Candidate-gene RNA trends
+Figure5	c	Figure5_panel_c_source_data.tsv	409	Cell-type-resolved differential accessibility regions
+Figure5	d	Figure5_panel_d_source_data.tsv	7	Adjusted peak-gene correlations
+Figure5	e	Figure5_panel_e_source_data.tsv	68	Joint-evidence gate
+Figure6	synthesis	Figure6_synthesis_source_data.tsv	7	Cross-study quantitative synthesis and interpretive boundaries

@@ -1,0 +1,69 @@
+gene	criterion	passed	passed_count
+ARHGAP35	Full three-part chain	FALSE	0
+ARHGAP35	Nearest-peak pTDP trend	FALSE	0
+ARHGAP35	Peak–gene correlation	FALSE	0
+ARHGAP35	RNA pTDP trend	FALSE	0
+ARHGAP39	Full three-part chain	FALSE	0
+ARHGAP39	Nearest-peak pTDP trend	FALSE	0
+ARHGAP39	Peak–gene correlation	TRUE	1
+ARHGAP39	RNA pTDP trend	FALSE	0
+BAG3	Full three-part chain	FALSE	0
+BAG3	Nearest-peak pTDP trend	FALSE	0
+BAG3	Peak–gene correlation	FALSE	0
+BAG3	RNA pTDP trend	TRUE	1
+BCR	Full three-part chain	FALSE	0
+BCR	Nearest-peak pTDP trend	FALSE	0
+BCR	Peak–gene correlation	FALSE	0
+BCR	RNA pTDP trend	FALSE	0
+CCT5	Full three-part chain	FALSE	0
+CCT5	Nearest-peak pTDP trend	FALSE	0
+CCT5	Peak–gene correlation	FALSE	0
+CCT5	RNA pTDP trend	FALSE	0
+CCT8	Full three-part chain	FALSE	0
+CCT8	Nearest-peak pTDP trend	FALSE	0
+CCT8	Peak–gene correlation	FALSE	0
+CCT8	RNA pTDP trend	FALSE	0
+CHORDC1	Full three-part chain	FALSE	0
+CHORDC1	Nearest-peak pTDP trend	FALSE	0
+CHORDC1	Peak–gene correlation	FALSE	0
+CHORDC1	RNA pTDP trend	FALSE	0
+COA3	Full three-part chain	FALSE	0
+COA3	Nearest-peak pTDP trend	FALSE	0
+COA3	Peak–gene correlation	FALSE	0
+COA3	RNA pTDP trend	FALSE	0
+COX5B	Full three-part chain	FALSE	0
+COX5B	Nearest-peak pTDP trend	FALSE	0
+COX5B	Peak–gene correlation	TRUE	1
+COX5B	RNA pTDP trend	TRUE	1
+COX7C	Full three-part chain	FALSE	0
+COX7C	Nearest-peak pTDP trend	FALSE	0
+COX7C	Peak–gene correlation	TRUE	1
+COX7C	RNA pTDP trend	FALSE	0
+DOCK7	Full three-part chain	FALSE	0
+DOCK7	Nearest-peak pTDP trend	FALSE	0
+DOCK7	Peak–gene correlation	TRUE	1
+DOCK7	RNA pTDP trend	FALSE	0
+HSP90AA1	Full three-part chain	FALSE	0
+HSP90AA1	Nearest-peak pTDP trend	FALSE	0
+HSP90AA1	Peak–gene correlation	FALSE	0
+HSP90AA1	RNA pTDP trend	TRUE	1
+HSP90AB1	Full three-part chain	FALSE	0
+HSP90AB1	Nearest-peak pTDP trend	FALSE	0
+HSP90AB1	Peak–gene correlation	FALSE	0
+HSP90AB1	RNA pTDP trend	TRUE	1
+MAP1B	Full three-part chain	FALSE	0
+MAP1B	Nearest-peak pTDP trend	FALSE	0
+MAP1B	Peak–gene correlation	TRUE	1
+MAP1B	RNA pTDP trend	TRUE	1
+MAPT	Full three-part chain	FALSE	0
+MAPT	Nearest-peak pTDP trend	FALSE	0
+MAPT	Peak–gene correlation	FALSE	0
+MAPT	RNA pTDP trend	FALSE	0
+PARK7	Full three-part chain	FALSE	0
+PARK7	Nearest-peak pTDP trend	FALSE	0
+PARK7	Peak–gene correlation	FALSE	0
+PARK7	RNA pTDP trend	FALSE	0
+STARD13	Full three-part chain	FALSE	0
+STARD13	Nearest-peak pTDP trend	FALSE	0
+STARD13	Peak–gene correlation	FALSE	0
+STARD13	RNA pTDP trend	TRUE	1

@@ -1,0 +1,13 @@
+dataset_id	modality	role	n_donors_or_sample_scope	public_locator	redistributed_here	notes
+GSE219280	snRNA-seq	discovery	17 donors; BA4 and BA9	NCBI GEO GSE219280	No	Raw count matrix and metadata must be retrieved from the source repository.
+GSE219279	snATAC-seq	same-donor cross-modal context	Same 17-donor study panel	NCBI GEO GSE219279	No	Not independent validation of GSE219280.
+Gittings_2023_C9_snRNA	snRNA-seq	first programme-level replication	37 public donor identifiers	Article DOI 10.1007/s00401-023-02599-5; CELLxGENE asset identifiers are retained in Extended Data 04	No	ALS-versus-FTD is a partition-bridged difference-in-differences.
+Ruf_2026_same_nucleus_multiome	same-nucleus RNA-ATAC	frozen external diagnostic portability	79 donors; 180,016 nuclei	Article DOI 10.1038/s41467-026-69944-6	No	Add a dataset-specific stable repository identifier if supplied by the source article.
+GSE153960	bulk RNA-seq	tissue/composition sensitivity	229 donors	NCBI GEO GSE153960	No	Supporting tissue-level context only.
+GSE212630	paired single-nucleus multiome	ordinal pTDP orthogonal context	26 donors; primary cell-type analysis uses 14 annotated Emory donors	NCBI GEO GSE212630	No	RNA and ATAC derive from the same nuclei and are not independent observations.
+GSE163122	snRNA-seq	cross-genetic GRN-FTD boundary	9 donors	NCBI GEO GSE163122	No	Not direct C9 replication.
+GSE296710	bulk RNA-seq of iPSC cortical neurons	TDP-43-loss perturbation context	4 knockdown vs 4 control	NCBI GEO GSE296710	No	Cross-context support, not glial cell-type replication.
+GSE296714	bulk RNA-seq of iPSC cortical neurons	TDP-43-loss perturbation context	6 knockdown vs 6 control	NCBI GEO GSE296714	No	Cross-context support, not glial cell-type replication.
+GCST90027164	ALS GWAS summary statistics	genetic anchoring	29,612 cases and 122,656 controls	GWAS Catalog GCST90027164	No	MAGMA competitive tests; GRCh37 reference resources are also required.
+1000_Genomes_EUR	genotype reference panel	MAGMA linkage-disequilibrium reference	503 individuals	1000 Genomes Project European reference panel	No	External reference; not study participant data.
+
