@@ -3,10 +3,20 @@
   "upload_type": "software",
   "description": "Frozen analysis code, panel-level Source Data, compact supplementary outputs and submission figures for a donor-aware reanalysis of public ALS-FTD transcriptomic, chromatin, multiome, perturbation and GWAS resources.",
   "creators": [
-    {"name": "TO BE CONFIRMED", "affiliation": "TO BE CONFIRMED", "orcid": "TO BE CONFIRMED"}
+    {"name": "Jiang, Junchen", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Wang, Min", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Lv, Yiren", "affiliation": "Beijing Miyun District Hospital of Traditional Chinese Medicine (Miyun Hospital of the Third Affiliated Hospital of Beijing University of Chinese Medicine)"},
+    {"name": "Pan, Beifen", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Liu, Ruge", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Chen, Junlong", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Wang, Yulin", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Dong, Kaiqiang", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Cui, Lixian", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Zhang, Dong", "affiliation": "Beijing University of Chinese Medicine; Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Liu, Jialin", "affiliation": "Beijing University of Chinese Medicine Oriental Hospital"},
+    {"name": "Guo, Rongjuan", "affiliation": "Beijing University of Chinese Medicine Oriental Hospital"}
   ],
   "version": "1.0.0",
-  "license": "TO_BE_CONFIRMED",
   "keywords": ["ALS", "FTD", "C9orf72", "TDP-43", "single-nucleus sequencing", "multiome", "pseudobulk"],
   "related_identifiers": [
     {"identifier": "https://github.com/liolio202070/als-ftd-cell-context-programmes", "relation": "isSupplementTo", "scheme": "url"}

@@ -14,7 +14,7 @@ The study reanalyses public human-brain transcriptomic, chromatin-accessibility,
 - `scripts/analysis/`: donor-aware analysis workflows; full execution requires reconstruction of the public raw-data tree.
 - `scripts/qa/`: figure-bundle and manuscript numeric-freeze checks.
 - `manuscript/`: synchronized manuscript, Word file and bibliography.
-- `metadata/`: dataset and release metadata templates.
+- `metadata/`: dataset, citation and release metadata.
 
 ## Rebuild the quantitative figures
 
@@ -45,9 +45,8 @@ The analysis scripts are the frozen computational record, not a promise that thi
 
 ## Data and code availability
 
-Ready-to-paste statements are in `DATA_AVAILABILITY.md` and `CODE_AVAILABILITY.md`. DOI, repository URL, creator list and license remain placeholders until the authors approve an external GitHub/Zenodo release. No external upload has been performed from this draft.
+Ready-to-paste statements are in `DATA_AVAILABILITY.md` and `CODE_AVAILABILITY.md`. The public repository is https://github.com/liolio202070/als-ftd-cell-context-programmes. The immutable Zenodo DOI and reuse licence remain pending until the associated archive record is finalized.
 
 ## License status
 
 No reuse license has yet been selected. Until the authors add one, normal copyright restrictions apply. See `LICENSE_SELECTION_REQUIRED.md` for the recommended split between code and author-generated data/figures.
-

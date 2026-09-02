@@ -11,11 +11,9 @@ Completed in the local draft:
 
 Required author decisions or external actions before DOI release:
 
-- Confirm creator names, affiliations, ORCIDs and author order.
+- Confirm ORCID identifiers if they are to be included in the archive metadata.
 - Choose code and data/figure licenses.
-- Supply the public GitHub repository URL.
-- Upload the approved archive to Zenodo, reserve/publish the DOI and replace placeholders.
+- Upload the approved archive to Zenodo, publish the DOI and replace pending DOI wording.
 - Record the final git commit and release tag.
 - Add the editable Figure 1 master if available, or retain the provenance limitation.
 - Confirm the stable dataset-specific locator for the Ruf resource.
-
