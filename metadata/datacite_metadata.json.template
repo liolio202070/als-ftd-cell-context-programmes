@@ -1,11 +1,25 @@
 {
   "types": {"resourceTypeGeneral": "Software", "resourceType": "Research compendium"},
   "titles": [{"title": "Cell-context programmes across the ALS-FTD spectrum under external same-nucleus multiome testing"}],
-  "creators": [{"name": "TO BE CONFIRMED"}],
+  "creators": [
+    {"name": "Jiang, Junchen"},
+    {"name": "Wang, Min"},
+    {"name": "Lv, Yiren"},
+    {"name": "Pan, Beifen"},
+    {"name": "Liu, Ruge"},
+    {"name": "Chen, Junlong"},
+    {"name": "Wang, Yulin"},
+    {"name": "Dong, Kaiqiang"},
+    {"name": "Cui, Lixian"},
+    {"name": "Zhang, Dong"},
+    {"name": "Liu, Jialin"},
+    {"name": "Guo, Rongjuan"}
+  ],
   "publisher": "Zenodo",
-  "publicationYear": "YYYY",
+  "publicationYear": "2026",
   "version": "1.0.0",
   "descriptions": [{"descriptionType": "Abstract", "description": "Frozen code, Source Data, compact supplementary outputs and figures for the associated ALS-FTD manuscript."}],
-  "rightsList": [{"rights": "TO BE CONFIRMED"}],
+  "rightsList": [{"rights": "Creative Commons Attribution 4.0 International", "rightsIdentifier": "CC-BY-4.0", "rightsUri": "https://creativecommons.org/licenses/by/4.0/"}],
+  "doi": "10.5281/zenodo.22069620",
   "url": "https://github.com/liolio202070/als-ftd-cell-context-programmes"
 }

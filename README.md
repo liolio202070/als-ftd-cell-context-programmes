@@ -45,8 +45,8 @@ The analysis scripts are the frozen computational record, not a promise that thi
 
 ## Data and code availability
 
-Ready-to-paste statements are in `DATA_AVAILABILITY.md` and `CODE_AVAILABILITY.md`. The public repository is https://github.com/liolio202070/als-ftd-cell-context-programmes. The immutable Zenodo DOI and reuse licence remain pending until the associated archive record is finalized.
+Submission-ready statements are provided in `DATA_AVAILABILITY.md` and `CODE_AVAILABILITY.md`. The public repository is https://github.com/liolio202070/als-ftd-cell-context-programmes. Release v1.0.0 is permanently archived on Zenodo at https://doi.org/10.5281/zenodo.22069620; the corresponding release commit is `a1fdc418a3a2c688bed8aad3cb5ebad981c728fa`.
 
-## License status
+## Licence
 
-No reuse license has yet been selected. Until the authors add one, normal copyright restrictions apply. See `LICENSE_SELECTION_REQUIRED.md` for the recommended split between code and author-generated data/figures.
+Author-generated materials distributed in this repository are available under the Creative Commons Attribution 4.0 International licence (CC BY 4.0), as specified in `LICENSE`. Third-party source datasets are not relicensed by this repository and remain subject to the terms of their originating repositories.

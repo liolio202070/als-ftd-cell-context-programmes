@@ -4,6 +4,8 @@ title: "Cell-context programmes across the ALS-FTD spectrum under external same-
 type: software
 version: "1.0.0"
 date-released: "2026-09-02"
+doi: "10.5281/zenodo.22069620"
+license: "CC-BY-4.0"
 authors:
   - family-names: "Jiang"
     given-names: "Junchen"
@@ -30,3 +32,4 @@ authors:
   - family-names: "Guo"
     given-names: "Rongjuan"
 repository-code: "https://github.com/liolio202070/als-ftd-cell-context-programmes"
+repository-artifact: "https://doi.org/10.5281/zenodo.22069620"

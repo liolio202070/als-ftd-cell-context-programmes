@@ -1,11 +1,5 @@
 # Code availability
 
-## Manuscript-ready draft
+## Submission-ready statement
 
-The frozen analysis and figure-generation code, panel-level Source Data, compact supplementary outputs, environment information and release checksums are available at **https://github.com/liolio202070/als-ftd-cell-context-programmes**. The corresponding immutable Zenodo DOI will be added when the archive record is finalized. Figure scripts reproduce the quantitative submission figures from the distributed frozen Source Data. Complete reanalysis from raw inputs requires retrieval of the public datasets from their original repositories, as described in the accompanying dataset manifest. No custom model weights or non-public clinical records were used.
-
-## Editorial notes before submission
-
-- Insert the immutable Zenodo DOI after the archive record is finalized.
-- Record the release tag and commit hash after the public release is tagged.
-- Keep the wording “frozen Source Data” because Figure 1 is supplied as an author-final schematic rather than a deterministic scripted render.
+All analysis and figure-generation code used in this study is publicly available at **https://github.com/liolio202070/als-ftd-cell-context-programmes**. The frozen release reported with the manuscript is version v1.0.0 (Git commit `a1fdc418a3a2c688bed8aad3cb5ebad981c728fa`) and is permanently archived on Zenodo at **https://doi.org/10.5281/zenodo.22069620**. The repository includes data-retrieval and checksum manifests, cohort and donor-identity audits, donor-level pseudobulk and differential-expression workflows, predefined gene-set enrichment and cross-cohort evidence-integration analyses, differential-composition and bulk-deconvolution sensitivity analyses, paired multiome RNA, ATAC and peak-gene workflows, donor leave-one-out and covariate-sensitivity analyses, figure-generation scripts, panel-level Source Data, software-environment records and random seeds. Figure scripts reproduce the quantitative submission figures from the distributed frozen Source Data. Complete reanalysis from raw inputs requires retrieval of the corresponding public datasets from their original repositories, as described in the dataset manifest. No custom model weights or non-public clinical records were used.

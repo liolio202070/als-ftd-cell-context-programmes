@@ -17,6 +17,8 @@
     {"name": "Guo, Rongjuan", "affiliation": "Beijing University of Chinese Medicine Oriental Hospital"}
   ],
   "version": "1.0.0",
+  "license": "cc-by-4.0",
+  "publication_date": "2026-09-02",
   "keywords": ["ALS", "FTD", "C9orf72", "TDP-43", "single-nucleus sequencing", "multiome", "pseudobulk"],
   "related_identifiers": [
     {"identifier": "https://github.com/liolio202070/als-ftd-cell-context-programmes", "relation": "isSupplementTo", "scheme": "url"}
